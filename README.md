@@ -3,3 +3,5 @@ This is for the paper "Clustering by Orthogonal NMF Model and Non-convex Penalty
 In order to run the program, you should to use Python 2.7.X. and install the libraries needed.
 
 The main program is "cluster_main.py". Type "python cluster_main.py method_name" to run the code.
+
+Note that the method "sncp1" or "sncp1c" corresponds to SNCP while "sncp2" or "sncp2c" corresponds to the NSNCP method.
